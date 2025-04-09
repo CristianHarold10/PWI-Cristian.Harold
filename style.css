@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to bottom, #3a06d7 0%, #c40000 50%);
+}
+
+h1 {
+    color: #000000; 
+    text-align: center;
+    margin-top: 50px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    color: #ffffff; 
+    font-size: 18px; 
+    text-align: center;
+    border-style: solid;
+}
